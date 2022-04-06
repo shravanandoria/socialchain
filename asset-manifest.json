@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/socialchain/static/css/main.b34c9abf.css",
+    "main.js": "/socialchain/static/js/main.e6851664.js",
+    "static/js/787.0e5f7cbc.chunk.js": "/socialchain/static/js/787.0e5f7cbc.chunk.js",
+    "static/media/loader.gif": "/socialchain/static/media/loader.de23b5626b2b676fdde8.gif",
+    "index.html": "/socialchain/index.html",
+    "main.b34c9abf.css.map": "/socialchain/static/css/main.b34c9abf.css.map",
+    "main.e6851664.js.map": "/socialchain/static/js/main.e6851664.js.map",
+    "787.0e5f7cbc.chunk.js.map": "/socialchain/static/js/787.0e5f7cbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34c9abf.css",
+    "static/js/main.e6851664.js"
+  ]
+}
