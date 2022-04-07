@@ -46,7 +46,7 @@ module.exports = {
       provider: function () {
         return new HDWalletProvider(
           MNEMONIC,
-          "wss://rinkeby.infura.io/ws/v3/66e8964a27bb4f6ab965d60455189468"
+          "wss://rinkeby.infura.io/ws/v3/092eec910f8543fbab1d3d20d2fc6c22"
         );
       },
       network_id: 4,
