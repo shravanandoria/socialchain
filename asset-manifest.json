@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/socialchain/static/css/main.78f67246.css",
-    "main.js": "/socialchain/static/js/main.7282bafc.js",
+    "main.js": "/socialchain/static/js/main.052cdff8.js",
     "static/js/787.0e5f7cbc.chunk.js": "/socialchain/static/js/787.0e5f7cbc.chunk.js",
     "static/media/loader.gif": "/socialchain/static/media/loader.de23b5626b2b676fdde8.gif",
     "index.html": "/socialchain/index.html",
     "main.78f67246.css.map": "/socialchain/static/css/main.78f67246.css.map",
-    "main.7282bafc.js.map": "/socialchain/static/js/main.7282bafc.js.map",
+    "main.052cdff8.js.map": "/socialchain/static/js/main.052cdff8.js.map",
     "787.0e5f7cbc.chunk.js.map": "/socialchain/static/js/787.0e5f7cbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78f67246.css",
-    "static/js/main.7282bafc.js"
+    "static/js/main.052cdff8.js"
   ]
 }
