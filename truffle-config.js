@@ -42,17 +42,19 @@ module.exports = {
    */
 
   networks: {
-    // rinkby: {
-    //   provider: function () {
-    //     return new HDWalletProvider(
-    //       MNEMONIC,
-    //       "https://rinkeby.infura.io/v3/66e8964a27bb4f6ab965d60455189468"
-    //     );
-    //   },
-    //   network_id: 4,
-    //   gas: 4500000,
-    //   gasPrice: 10000000000, //make sure this gas allocation isn't over 4M, which is the max
-    // },
+    rinkby: {
+      provider: function () {
+        return new HDWalletProvider(
+          MNEMONIC,
+          "wss://rinkeby.infura.io/ws/v3/66e8964a27bb4f6ab965d60455189468"
+        );
+      },
+      network_id: 4,
+      gas: 4500000,
+      gasPrice: 10000000000,
+      networkCheckTimeout: 1000000,
+      timeoutBlocks: 200, //make sure this gas allocation isn't over 4M, which is the max
+    },
     // Useful for testing. The `development` name is special - truffle uses it by default
     // if it's defined here and no other network is specified at the command line.
     // You should run a client (like ganache-cli, geth or parity) in a separate terminal
